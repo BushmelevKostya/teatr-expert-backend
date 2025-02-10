@@ -1,0 +1,4 @@
+django
+yookassa
+psycopg2
+python-dotenv
